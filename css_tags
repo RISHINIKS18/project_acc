@@ -1,0 +1,3 @@
+﻿animation-delay,Specifies a delay for the start of an animation
+all,Resets all properties (except unicode-bidi and direction)
+animation-timing-function,Specifies the speed curve of an animation
